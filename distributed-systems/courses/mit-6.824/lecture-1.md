@@ -150,3 +150,35 @@ Reduce(k,v)
 ## Topics To Be Researched
 1. Link Analyzer used by Google 
 1. Page Rank algorithm
+
+
+## Questions
+# Question 
+1. What is System?
+1. What is Distributed Systems?
+1. Reasons to build Distributed Systems?
+1. Challenges of Distributed Systems?
+1. Operations of Distributed Systems?
+1. Architecture of Distributed Systems?
+1. Advantages & Disadvantages of Distributed Systems?
+1. Examples of Distributed Systems?
+1. What is Fault Tolerance?
+1. What is Single Point Of Failure?
+1. What is Partial Failure?
+1. What is Consistency?
+1. What is Scalability?
+1. What is Transparency?
+1. What is Recoverability?
+1. What is Availability?
+1. What is Parellelism?
+1. What is Concurrency?
+1. What is Sharding?
+1. What is Load Balancer?
+1. What is RPC?
+1. How MapReduce work?
+1. What is difference between Job and Task Operations in in MapReduce System?
+1. How does the emit function in the Map function differs from the Reduce function?
+1. What was the bottleneck of the MapReduce System?
+1. How did the bottleneck was solved?
+1. What was the role of GFS in MapReduce System?
+1. What is PageRank Algorithm?
